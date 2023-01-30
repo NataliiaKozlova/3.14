@@ -1,4 +1,4 @@
-git # Инструкция по  работе с GIT
+# Инструкция по  работе с GIT
 
 LICENSE: [MIT](.lisense.md)
 
